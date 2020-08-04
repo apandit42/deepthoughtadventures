@@ -5,3 +5,5 @@ let game = new PIXI.Application({
   height: 800,
   antialias: true,
 });
+
+document.body.appendChild(app.view)
