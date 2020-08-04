@@ -1,2 +1,2 @@
-# deepthoughtadventures
-A ting.
+# Deep Thought Adventures
+A ting type beat.
